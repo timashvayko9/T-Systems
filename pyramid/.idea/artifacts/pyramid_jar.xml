@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="pyramid:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pyramid_jar</output-path>
+    <root id="archive" name="pyramid.jar">
+      <element id="module-output" name="pyramid" />
+    </root>
+  </artifact>
+</component>
